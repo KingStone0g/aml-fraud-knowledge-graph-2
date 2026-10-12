@@ -1,0 +1,62 @@
+account_id,customer_id,score,reasons
+A00870,C0628,70,pass-through hub; shared identity network
+A00877,C0635,70,pass-through hub; shared identity network
+A00884,C0642,70,pass-through hub; shared identity network
+A00891,C0649,70,pass-through hub; shared identity network
+A00844,C0602,55,circular transfers; high-risk customer
+A00845,C0603,55,circular transfers; high-risk customer
+A00849,C0607,55,circular transfers; high-risk customer
+A00850,C0608,55,circular transfers; high-risk customer
+A00851,C0609,55,circular transfers; high-risk customer
+A00856,C0614,55,circular transfers; high-risk customer
+A00858,C0616,55,circular transfers; high-risk customer
+A00859,C0617,55,circular transfers; high-risk customer
+A00862,C0620,55,circular transfers; high-risk customer
+A00863,C0621,55,circular transfers; high-risk customer
+A00867,C0625,55,circular transfers; high-risk customer
+A00869,C0627,55,circular transfers; high-risk customer
+A00843,C0601,50,circular transfers
+A00846,C0604,50,circular transfers
+A00847,C0605,50,circular transfers
+A00848,C0606,50,circular transfers
+A00852,C0610,50,circular transfers
+A00853,C0611,50,circular transfers
+A00854,C0612,50,circular transfers
+A00855,C0613,50,circular transfers
+A00857,C0615,50,circular transfers
+A00860,C0618,50,circular transfers
+A00861,C0619,50,circular transfers
+A00864,C0622,50,circular transfers
+A00865,C0623,50,circular transfers
+A00866,C0624,50,circular transfers
+A00868,C0626,50,circular transfers
+A00898,C0656,40,structuring
+A00899,C0657,40,structuring
+A00900,C0658,40,structuring
+A00901,C0659,40,structuring
+A00902,C0660,40,structuring
+A00903,C0661,40,structuring
+A00872,C0630,35,shared identity network; high-risk customer
+A00873,C0631,35,shared identity network; high-risk customer
+A00874,C0632,35,shared identity network; high-risk customer
+A00878,C0636,35,shared identity network; high-risk customer
+A00887,C0645,35,shared identity network; high-risk customer
+A00888,C0646,35,shared identity network; high-risk customer
+A00893,C0651,35,shared identity network; high-risk customer
+A00897,C0655,35,shared identity network; high-risk customer
+A00871,C0629,30,shared identity network
+A00875,C0633,30,shared identity network
+A00876,C0634,30,shared identity network
+A00879,C0637,30,shared identity network
+A00880,C0638,30,shared identity network
+A00881,C0639,30,shared identity network
+A00882,C0640,30,shared identity network
+A00883,C0641,30,shared identity network
+A00885,C0643,30,shared identity network
+A00886,C0644,30,shared identity network
+A00889,C0647,30,shared identity network
+A00890,C0648,30,shared identity network
+A00892,C0650,30,shared identity network
+A00894,C0652,30,shared identity network
+A00895,C0653,30,shared identity network
+A00896,C0654,30,shared identity network

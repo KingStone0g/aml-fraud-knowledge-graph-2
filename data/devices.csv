@@ -1,0 +1,784 @@
+device_id,device_type
+D0001,Android tablet
+D0002,MacBook
+D0003,Android phone
+D0004,MacBook
+D0005,Android phone
+D0006,iPad
+D0007,Android tablet
+D0008,Android tablet
+D0009,MacBook
+D0010,iPad
+D0011,iPhone
+D0012,iPad
+D0013,iPhone
+D0014,Android tablet
+D0015,iPhone
+D0016,Windows PC
+D0017,MacBook
+D0018,iPhone
+D0019,iPhone
+D0020,Android tablet
+D0021,MacBook
+D0022,Android tablet
+D0023,iPhone
+D0024,iPad
+D0025,Android tablet
+D0026,Android phone
+D0027,Android tablet
+D0028,Windows PC
+D0029,Windows PC
+D0030,Android tablet
+D0031,MacBook
+D0032,Windows PC
+D0033,Windows PC
+D0034,Windows PC
+D0035,Windows PC
+D0036,iPhone
+D0037,iPad
+D0038,iPad
+D0039,iPad
+D0040,MacBook
+D0041,MacBook
+D0042,iPad
+D0043,Windows PC
+D0044,Android phone
+D0045,iPhone
+D0046,Android tablet
+D0047,iPad
+D0048,Android tablet
+D0049,Android phone
+D0050,iPad
+D0051,Android phone
+D0052,Android phone
+D0053,Android tablet
+D0054,Android tablet
+D0055,iPhone
+D0056,Android phone
+D0057,iPad
+D0058,Android phone
+D0059,Android tablet
+D0060,MacBook
+D0061,MacBook
+D0062,Android tablet
+D0063,iPad
+D0064,iPad
+D0065,iPhone
+D0066,iPad
+D0067,MacBook
+D0068,MacBook
+D0069,iPhone
+D0070,iPad
+D0071,iPhone
+D0072,iPhone
+D0073,Android tablet
+D0074,iPad
+D0075,Android tablet
+D0076,Android phone
+D0077,Android tablet
+D0078,iPhone
+D0079,MacBook
+D0080,iPhone
+D0081,Android phone
+D0082,Windows PC
+D0083,Android phone
+D0084,iPad
+D0085,iPhone
+D0086,Android phone
+D0087,Android phone
+D0088,Android tablet
+D0089,iPhone
+D0090,iPad
+D0091,Android phone
+D0092,iPhone
+D0093,MacBook
+D0094,MacBook
+D0095,iPhone
+D0096,Windows PC
+D0097,MacBook
+D0098,Windows PC
+D0099,Android phone
+D0100,Android phone
+D0101,iPhone
+D0102,Windows PC
+D0103,Windows PC
+D0104,MacBook
+D0105,iPhone
+D0106,iPad
+D0107,Windows PC
+D0108,Android phone
+D0109,iPad
+D0110,MacBook
+D0111,iPad
+D0112,iPad
+D0113,MacBook
+D0114,Android tablet
+D0115,Android phone
+D0116,iPad
+D0117,Windows PC
+D0118,Windows PC
+D0119,iPad
+D0120,iPad
+D0121,Android tablet
+D0122,MacBook
+D0123,MacBook
+D0124,iPhone
+D0125,Windows PC
+D0126,Windows PC
+D0127,MacBook
+D0128,iPhone
+D0129,Android phone
+D0130,MacBook
+D0131,Android phone
+D0132,MacBook
+D0133,Android phone
+D0134,MacBook
+D0135,Android tablet
+D0136,Android tablet
+D0137,iPhone
+D0138,iPhone
+D0139,iPad
+D0140,MacBook
+D0141,iPhone
+D0142,MacBook
+D0143,Android phone
+D0144,MacBook
+D0145,MacBook
+D0146,iPhone
+D0147,Windows PC
+D0148,iPad
+D0149,iPhone
+D0150,iPhone
+D0151,MacBook
+D0152,MacBook
+D0153,MacBook
+D0154,MacBook
+D0155,Android tablet
+D0156,MacBook
+D0157,iPad
+D0158,Android tablet
+D0159,Android phone
+D0160,Windows PC
+D0161,Windows PC
+D0162,iPad
+D0163,Android phone
+D0164,Android tablet
+D0165,iPad
+D0166,iPad
+D0167,Windows PC
+D0168,iPad
+D0169,Android tablet
+D0170,iPad
+D0171,iPhone
+D0172,iPad
+D0173,Android tablet
+D0174,iPad
+D0175,Windows PC
+D0176,Android tablet
+D0177,Android phone
+D0178,Android phone
+D0179,iPad
+D0180,iPhone
+D0181,iPhone
+D0182,Android tablet
+D0183,iPad
+D0184,Android phone
+D0185,Android phone
+D0186,Android tablet
+D0187,Android tablet
+D0188,Android phone
+D0189,Windows PC
+D0190,Android tablet
+D0191,Windows PC
+D0192,iPad
+D0193,Android phone
+D0194,Windows PC
+D0195,Windows PC
+D0196,Windows PC
+D0197,Android tablet
+D0198,Windows PC
+D0199,iPad
+D0200,Windows PC
+D0201,Android tablet
+D0202,iPad
+D0203,MacBook
+D0204,MacBook
+D0205,Windows PC
+D0206,iPhone
+D0207,MacBook
+D0208,MacBook
+D0209,Windows PC
+D0210,Windows PC
+D0211,MacBook
+D0212,Android phone
+D0213,Android tablet
+D0214,iPad
+D0215,MacBook
+D0216,Android phone
+D0217,iPad
+D0218,Android tablet
+D0219,Windows PC
+D0220,Android tablet
+D0221,MacBook
+D0222,Android tablet
+D0223,Android phone
+D0224,iPad
+D0225,iPhone
+D0226,iPad
+D0227,Windows PC
+D0228,iPhone
+D0229,Android tablet
+D0230,Android tablet
+D0231,MacBook
+D0232,MacBook
+D0233,Android tablet
+D0234,Android phone
+D0235,Windows PC
+D0236,iPad
+D0237,iPhone
+D0238,Android phone
+D0239,iPad
+D0240,Android tablet
+D0241,iPhone
+D0242,Android tablet
+D0243,Android phone
+D0244,iPhone
+D0245,Android tablet
+D0246,iPad
+D0247,iPhone
+D0248,iPad
+D0249,MacBook
+D0250,Android tablet
+D0251,MacBook
+D0252,MacBook
+D0253,Windows PC
+D0254,Android tablet
+D0255,MacBook
+D0256,MacBook
+D0257,Windows PC
+D0258,iPhone
+D0259,MacBook
+D0260,iPad
+D0261,Android phone
+D0262,Android phone
+D0263,Android phone
+D0264,Android tablet
+D0265,Android phone
+D0266,iPhone
+D0267,MacBook
+D0268,iPad
+D0269,Android tablet
+D0270,Windows PC
+D0271,iPhone
+D0272,Windows PC
+D0273,iPad
+D0274,iPhone
+D0275,Windows PC
+D0276,Windows PC
+D0277,iPad
+D0278,Android phone
+D0279,MacBook
+D0280,Windows PC
+D0281,MacBook
+D0282,Android tablet
+D0283,Android phone
+D0284,iPhone
+D0285,Android tablet
+D0286,Windows PC
+D0287,Windows PC
+D0288,Windows PC
+D0289,Windows PC
+D0290,Android phone
+D0291,iPad
+D0292,Windows PC
+D0293,Android phone
+D0294,Android phone
+D0295,Windows PC
+D0296,Windows PC
+D0297,MacBook
+D0298,Android tablet
+D0299,Android tablet
+D0300,iPhone
+D0301,iPhone
+D0302,iPhone
+D0303,Android tablet
+D0304,Windows PC
+D0305,iPhone
+D0306,iPad
+D0307,iPad
+D0308,iPhone
+D0309,iPhone
+D0310,MacBook
+D0311,iPad
+D0312,Android tablet
+D0313,iPhone
+D0314,Android tablet
+D0315,Android phone
+D0316,Windows PC
+D0317,MacBook
+D0318,iPhone
+D0319,Windows PC
+D0320,iPad
+D0321,MacBook
+D0322,MacBook
+D0323,iPhone
+D0324,MacBook
+D0325,iPhone
+D0326,iPhone
+D0327,Android phone
+D0328,iPad
+D0329,Android phone
+D0330,iPad
+D0331,iPad
+D0332,iPad
+D0333,Android phone
+D0334,MacBook
+D0335,Windows PC
+D0336,Android tablet
+D0337,Android tablet
+D0338,Android tablet
+D0339,MacBook
+D0340,Windows PC
+D0341,MacBook
+D0342,MacBook
+D0343,Android tablet
+D0344,MacBook
+D0345,Android tablet
+D0346,iPhone
+D0347,Windows PC
+D0348,Android tablet
+D0349,Android tablet
+D0350,Android phone
+D0351,Windows PC
+D0352,Android tablet
+D0353,Android phone
+D0354,iPad
+D0355,Android tablet
+D0356,Android tablet
+D0357,iPhone
+D0358,MacBook
+D0359,Windows PC
+D0360,MacBook
+D0361,Android tablet
+D0362,Windows PC
+D0363,iPhone
+D0364,iPad
+D0365,Android tablet
+D0366,iPhone
+D0367,Windows PC
+D0368,Windows PC
+D0369,iPhone
+D0370,iPad
+D0371,Android tablet
+D0372,Windows PC
+D0373,Windows PC
+D0374,iPhone
+D0375,iPhone
+D0376,MacBook
+D0377,Android phone
+D0378,iPad
+D0379,iPhone
+D0380,iPad
+D0381,Android tablet
+D0382,iPad
+D0383,MacBook
+D0384,MacBook
+D0385,Windows PC
+D0386,Windows PC
+D0387,MacBook
+D0388,MacBook
+D0389,iPhone
+D0390,iPhone
+D0391,Android tablet
+D0392,iPhone
+D0393,MacBook
+D0394,Android phone
+D0395,Android tablet
+D0396,Windows PC
+D0397,iPad
+D0398,iPhone
+D0399,Windows PC
+D0400,Windows PC
+D0401,iPhone
+D0402,iPhone
+D0403,Android phone
+D0404,MacBook
+D0405,iPad
+D0406,MacBook
+D0407,iPhone
+D0408,Android tablet
+D0409,iPad
+D0410,Android tablet
+D0411,iPad
+D0412,Android phone
+D0413,Android tablet
+D0414,iPhone
+D0415,iPhone
+D0416,Android phone
+D0417,Windows PC
+D0418,Android phone
+D0419,MacBook
+D0420,Android phone
+D0421,Windows PC
+D0422,Android tablet
+D0423,MacBook
+D0424,Android tablet
+D0425,iPad
+D0426,Windows PC
+D0427,MacBook
+D0428,iPad
+D0429,iPad
+D0430,iPad
+D0431,iPad
+D0432,MacBook
+D0433,iPhone
+D0434,Windows PC
+D0435,iPhone
+D0436,MacBook
+D0437,Android tablet
+D0438,Windows PC
+D0439,iPhone
+D0440,Windows PC
+D0441,Android tablet
+D0442,iPad
+D0443,MacBook
+D0444,Windows PC
+D0445,MacBook
+D0446,Windows PC
+D0447,iPhone
+D0448,iPhone
+D0449,MacBook
+D0450,MacBook
+D0451,iPad
+D0452,iPad
+D0453,Android phone
+D0454,Android phone
+D0455,Windows PC
+D0456,Android phone
+D0457,Android tablet
+D0458,iPhone
+D0459,Android phone
+D0460,MacBook
+D0461,MacBook
+D0462,Windows PC
+D0463,MacBook
+D0464,iPhone
+D0465,iPad
+D0466,iPhone
+D0467,MacBook
+D0468,iPad
+D0469,iPhone
+D0470,MacBook
+D0471,Android tablet
+D0472,Windows PC
+D0473,MacBook
+D0474,Android tablet
+D0475,Android phone
+D0476,Windows PC
+D0477,iPad
+D0478,iPhone
+D0479,Android tablet
+D0480,MacBook
+D0481,MacBook
+D0482,Windows PC
+D0483,Android phone
+D0484,iPhone
+D0485,MacBook
+D0486,Android tablet
+D0487,iPhone
+D0488,Android tablet
+D0489,Windows PC
+D0490,Windows PC
+D0491,Android tablet
+D0492,Windows PC
+D0493,Android tablet
+D0494,Android phone
+D0495,iPad
+D0496,iPhone
+D0497,iPad
+D0498,iPad
+D0499,iPhone
+D0500,MacBook
+D0501,Windows PC
+D0502,Android tablet
+D0503,Android phone
+D0504,iPhone
+D0505,Android tablet
+D0506,Windows PC
+D0507,Android phone
+D0508,Windows PC
+D0509,iPad
+D0510,iPhone
+D0511,iPad
+D0512,Android tablet
+D0513,Android tablet
+D0514,MacBook
+D0515,Android phone
+D0516,iPad
+D0517,Windows PC
+D0518,iPhone
+D0519,Windows PC
+D0520,iPhone
+D0521,Android tablet
+D0522,Android tablet
+D0523,MacBook
+D0524,Android tablet
+D0525,MacBook
+D0526,MacBook
+D0527,iPhone
+D0528,Android phone
+D0529,Android phone
+D0530,MacBook
+D0531,iPad
+D0532,iPhone
+D0533,iPhone
+D0534,iPad
+D0535,Android tablet
+D0536,Windows PC
+D0537,MacBook
+D0538,MacBook
+D0539,iPad
+D0540,iPhone
+D0541,Android tablet
+D0542,iPhone
+D0543,Windows PC
+D0544,Android phone
+D0545,iPad
+D0546,Windows PC
+D0547,Windows PC
+D0548,Windows PC
+D0549,Windows PC
+D0550,iPad
+D0551,iPad
+D0552,iPhone
+D0553,Android phone
+D0554,Android tablet
+D0555,MacBook
+D0556,Android tablet
+D0557,Android phone
+D0558,Android tablet
+D0559,MacBook
+D0560,MacBook
+D0561,Android phone
+D0562,iPad
+D0563,Android phone
+D0564,Windows PC
+D0565,iPhone
+D0566,Android tablet
+D0567,iPhone
+D0568,iPad
+D0569,Windows PC
+D0570,Android phone
+D0571,Android phone
+D0572,iPad
+D0573,Android tablet
+D0574,iPad
+D0575,MacBook
+D0576,Android phone
+D0577,MacBook
+D0578,Android tablet
+D0579,Android tablet
+D0580,iPhone
+D0581,Android phone
+D0582,iPad
+D0583,MacBook
+D0584,Windows PC
+D0585,MacBook
+D0586,iPhone
+D0587,iPad
+D0588,iPhone
+D0589,MacBook
+D0590,MacBook
+D0591,Android tablet
+D0592,Android phone
+D0593,Android phone
+D0594,Android phone
+D0595,Android phone
+D0596,iPhone
+D0597,iPhone
+D0598,Windows PC
+D0599,Windows PC
+D0600,Android tablet
+D0601,iPad
+D0602,Android phone
+D0603,Windows PC
+D0604,Android phone
+D0605,Windows PC
+D0606,MacBook
+D0607,Windows PC
+D0608,Android phone
+D0609,Android phone
+D0610,MacBook
+D0611,MacBook
+D0612,MacBook
+D0613,Android tablet
+D0614,Android phone
+D0615,iPad
+D0616,iPhone
+D0617,Windows PC
+D0618,Windows PC
+D0619,iPhone
+D0620,Windows PC
+D0621,Android phone
+D0622,iPad
+D0623,MacBook
+D0624,Android phone
+D0625,Windows PC
+D0626,Windows PC
+D0627,iPhone
+D0628,iPhone
+D0629,Windows PC
+D0630,MacBook
+D0631,Android tablet
+D0632,iPad
+D0633,iPhone
+D0634,Android tablet
+D0635,iPad
+D0636,Android tablet
+D0637,iPhone
+D0638,iPad
+D0639,Android tablet
+D0640,iPhone
+D0641,Windows PC
+D0642,iPhone
+D0643,iPhone
+D0644,Android phone
+D0645,MacBook
+D0646,Android phone
+D0647,iPad
+D0648,Windows PC
+D0649,iPhone
+D0650,iPhone
+D0651,iPhone
+D0652,iPhone
+D0653,MacBook
+D0654,Android phone
+D0655,Android tablet
+D0656,Android tablet
+D0657,Android phone
+D0658,Android phone
+D0659,iPhone
+D0660,iPad
+D0661,Android phone
+D0662,Android phone
+D0663,iPhone
+D0664,iPad
+D0665,iPhone
+D0666,Android tablet
+D0667,MacBook
+D0668,Windows PC
+D0669,Android phone
+D0670,Windows PC
+D0671,MacBook
+D0672,iPad
+D0673,Android tablet
+D0674,MacBook
+D0675,Android tablet
+D0676,MacBook
+D0677,Windows PC
+D0678,iPad
+D0679,Windows PC
+D0680,iPad
+D0681,Android phone
+D0682,iPad
+D0683,iPad
+D0684,Android tablet
+D0685,Windows PC
+D0686,MacBook
+D0687,Android tablet
+D0688,iPad
+D0689,Windows PC
+D0690,iPhone
+D0691,Android tablet
+D0692,MacBook
+D0693,iPhone
+D0694,MacBook
+D0695,Android phone
+D0696,Android phone
+D0697,iPhone
+D0698,iPhone
+D0699,iPhone
+D0700,MacBook
+D0701,Android phone
+D0702,Android phone
+D0703,Android tablet
+D0704,iPhone
+D0705,Android tablet
+D0706,Android tablet
+D0707,MacBook
+D0708,Android tablet
+D0709,iPad
+D0710,iPad
+D0711,iPad
+D0712,MacBook
+D0713,MacBook
+D0714,iPad
+D0715,iPad
+D0716,Android phone
+D0717,Android tablet
+D0718,iPad
+D0719,MacBook
+D0720,Windows PC
+D0721,iPhone
+D0722,Android phone
+D0723,MacBook
+D0724,iPhone
+D0725,Android phone
+D0726,MacBook
+D0727,Android tablet
+D0728,Android phone
+D0729,iPad
+D0730,Android phone
+D0731,Android tablet
+D0732,iPhone
+D0733,iPad
+D0734,Android phone
+D0735,Android tablet
+D0736,Android tablet
+D0737,Windows PC
+D0738,Windows PC
+D0739,Android phone
+D0740,iPhone
+D0741,iPad
+D0742,Android tablet
+D0743,Android phone
+D0744,MacBook
+D0745,Windows PC
+D0746,Windows PC
+D0747,iPad
+D0748,Android tablet
+D0749,Android phone
+D0750,Android tablet
+D0751,Android tablet
+D0752,Windows PC
+D0753,Windows PC
+D0754,Android phone
+D0755,Android phone
+D0756,iPhone
+D0757,Android phone
+D0758,iPad
+D0759,Android tablet
+D0760,iPhone
+D0761,Windows PC
+D0762,iPhone
+D0763,Android phone
+D0764,MacBook
+D0765,MacBook
+D0766,Windows PC
+D0767,Android tablet
+D0768,iPhone
+D0769,iPad
+D0770,MacBook
+D0771,Android tablet
+D0772,iPad
+D0773,Android phone
+D0774,MacBook
+D0775,iPhone
+D0776,Android tablet
+D0777,iPad
+D0778,Android phone
+D0779,MacBook
+D0780,Android phone
+D0781,iPad
+D0782,Android phone
+D0783,Windows PC

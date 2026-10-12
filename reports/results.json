@@ -1,0 +1,172 @@
+{
+  "counts": {
+    "rings": 5,
+    "identity_clusters": 4,
+    "structuring_accounts": 6,
+    "mule_hubs": 4,
+    "louvain_communities": 24,
+    "flagged_accounts": 61
+  },
+  "evaluation_vs_planted_patterns": {
+    "ring (accounts)": {
+      "true_positives": 27,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "mule network (customers)": {
+      "true_positives": 28,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "mule hub (accounts)": {
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "structuring (accounts)": {
+      "true_positives": 6,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "pagerank_top10": [
+    {
+      "account": "A00884",
+      "score": 0.00994,
+      "is_flagged_hub": true
+    },
+    {
+      "account": "A00891",
+      "score": 0.00947,
+      "is_flagged_hub": true
+    },
+    {
+      "account": "A00877",
+      "score": 0.00916,
+      "is_flagged_hub": true
+    },
+    {
+      "account": "A00890",
+      "score": 0.00867,
+      "is_flagged_hub": false
+    },
+    {
+      "account": "A00897",
+      "score": 0.00827,
+      "is_flagged_hub": false
+    },
+    {
+      "account": "A00883",
+      "score": 0.00802,
+      "is_flagged_hub": false
+    },
+    {
+      "account": "A00870",
+      "score": 0.00784,
+      "is_flagged_hub": true
+    },
+    {
+      "account": "A00876",
+      "score": 0.00689,
+      "is_flagged_hub": false
+    },
+    {
+      "account": "A00160",
+      "score": 0.00563,
+      "is_flagged_hub": false
+    },
+    {
+      "account": "A00734",
+      "score": 0.00561,
+      "is_flagged_hub": false
+    }
+  ],
+  "rings": [
+    {
+      "accounts": [
+        "A00860",
+        "A00861",
+        "A00862",
+        "A00863",
+        "A00864"
+      ],
+      "duration_hours": 26.4
+    },
+    {
+      "accounts": [
+        "A00849",
+        "A00850",
+        "A00851",
+        "A00852",
+        "A00853",
+        "A00854"
+      ],
+      "duration_hours": 33.5
+    },
+    {
+      "accounts": [
+        "A00843",
+        "A00844",
+        "A00845",
+        "A00846",
+        "A00847",
+        "A00848"
+      ],
+      "duration_hours": 46.8
+    },
+    {
+      "accounts": [
+        "A00865",
+        "A00866",
+        "A00867",
+        "A00868",
+        "A00869"
+      ],
+      "duration_hours": 29.5
+    },
+    {
+      "accounts": [
+        "A00855",
+        "A00856",
+        "A00857",
+        "A00858",
+        "A00859"
+      ],
+      "duration_hours": 36.3
+    }
+  ],
+  "identity_clusters": [
+    {
+      "customers": 7,
+      "devices": 2,
+      "addresses": 5,
+      "phones": 6
+    },
+    {
+      "customers": 7,
+      "devices": 2,
+      "addresses": 5,
+      "phones": 6
+    },
+    {
+      "customers": 7,
+      "devices": 2,
+      "addresses": 5,
+      "phones": 6
+    },
+    {
+      "customers": 7,
+      "devices": 2,
+      "addresses": 5,
+      "phones": 6
+    }
+  ]
+}
